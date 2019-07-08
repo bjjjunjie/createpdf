@@ -1,0 +1,14 @@
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\bin\Debug\itextsharp.dll
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\bin\Debug\itextsharp.pdfa.dll
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\bin\Debug\itextsharp.xml
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\程序源码\测试项目\testpdf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
